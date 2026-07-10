@@ -1,0 +1,36 @@
+[33mcommit 05dd314e79ed857e02167f0d09191ed94a3a6d00[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbranch[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: dc6ebf0 d986209
+Author: Leonel <alanmarini33@gmail.com>
+Date:   Mon Apr 5 10:49:00 2021 -0300
+
+    Merge branch 'develop'
+
+[33mcommit d9862093a45caa8b16ed2f2165f8195f736d13da[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: Leonel <alanmarini33@gmail.com>
+Date:   Mon Apr 5 10:48:26 2021 -0300
+
+    Se agrego boton y formulario
+
+[33mcommit 382cb4e7a27634db505f59d5ba7e3fe49e424ec4[m
+Author: Leonel <alanmarini33@gmail.com>
+Date:   Mon Apr 5 10:45:57 2021 -0300
+
+    se modifico nuevamente index
+
+[33mcommit dc6ebf09b6367718351d84106241be1fdef4b86a[m
+Author: Leonel <alanmarini33@gmail.com>
+Date:   Thu Apr 1 12:14:59 2021 -0300
+
+    se modifico titulo index
+
+[33mcommit 85d0eae14df00a6437ee57f270a17a6c5cfeaf14[m
+Author: LeonelMarini <110782@tecnicatura.frc.utn.edu.ar>
+Date:   Thu Apr 1 11:07:22 2021 -0300
+
+    Se agrego un titulo al index
+
+[33mcommit 011f1ef360bca5aa5d78f397aed5ea53fa8b4b3c[m
+Author: LeonelMarini <110782@tecnicatura.frc.utn.edu.ar>
+Date:   Thu Apr 1 11:03:19 2021 -0300
+
+    se creo el archivo index
